@@ -1,0 +1,7 @@
+.loading-page {
+  margin-top: 20%;
+}
+
+.loading-page > p {
+  font-size: x-large;
+}

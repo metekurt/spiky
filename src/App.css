@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #565656;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: #ffffff;
+}
+.container {
+  border-radius: 15px;
+  color: #d2cbcb;
+  margin: 0 25%;
+  padding: 10px;
+  display: block;
+  flex-direction: row;
+}
+.main {
+  border-radius: 16px;
+  position: relative;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  width: 30%;
+}
+.apexcharts-title-text {
+  font-weight: normal;
+}
+.apexcharts-text {
+  font-weight: normal;
+}
+.forecast-section {
+  position: absolute;
+  width: 83%;
+  border-radius: 25px;
+  margin: 50px;
+  margin-left: 270%;
+  box-shadow: 0 0 8px -2px rgb(0 0 0 / 50%);
+}
+
+.change-location {
+  position: relative;
+  display: inline-block;
+  width: 55%;
+  margin: 20px;
+}
+.line-chart {
+  margin-left: -8%;
+}

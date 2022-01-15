@@ -1,0 +1,23 @@
+.no-input > h1 {
+  color: #545454;
+  margin-top: 16%;
+  margin-bottom: -20px;
+  font-weight: 400;
+}
+
+.no-input > p {
+  color: #5a5a5a;
+  font-size: x-large;
+}
+
+.no-city > h1 {
+  color: #cd7b7b;
+  margin-top: 16%;
+  margin-bottom: -20px;
+  font-weight: 400;
+}
+
+.no-city > p {
+  color: #5a5a5a;
+  font-size: x-large;
+}
